@@ -68,6 +68,7 @@ create_tables()
 
 # Define the Streamlit app
 def main():
+    st.image("C:\\Users\\lenovo\\Desktop\\project\\yt.png", width=200)
     st.title("YouTube Channel Analyzer")
 
     # Add dropdown menu to the sidebar
